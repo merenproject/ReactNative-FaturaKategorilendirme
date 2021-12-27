@@ -11,7 +11,7 @@ Mobil uygulamada fotoğrafı çekilen faturaların google cloud görüntü işle
 #### [Bitirme Projesi PowerPoint.pptx](https://github.com/merenproject/ReactNative-FaturaKategorilendirme/files/7781916/Bitirme.Projesi.PowerPoint.pptx)
 
 
-<pre style="background-color: #FFFFFF;">
+<pre style="background-color: #FFFFFF; font-size: 4px;">
 
 
 
