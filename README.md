@@ -33,7 +33,7 @@ Mobil uygulamada fotoğrafı çekilen faturaların google cloud görüntü işle
 
 
 
-
+-left int. blank-
 </pre>
 
 https://user-images.githubusercontent.com/81049094/147511231-0d6a1475-530d-4769-bbca-abe34fe8b906.mp4
