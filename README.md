@@ -5,3 +5,7 @@ React Native school project about categorisation of bills by taking picture of t
 
 
 Mobil uygulamada fotoğrafı çekilen faturaların google cloud görüntü işleme modülü yardımıyla kategorilere ayrılması hakkında React Native okul projesi.
+
+[Bitirme Projesi PowerPoint.pptx](https://github.com/merenproject/ReactNative-FaturaKategorilendirme/files/7781916/Bitirme.Projesi.PowerPoint.pptx)
+
+
